@@ -11,7 +11,7 @@ public class menu {
 
         // 메뉴
         while (true) {
-            System.out.println("============ address book menu ===========");
+            System.out.println("============= address book menu ============");
             System.out.println("1. add address");
             System.out.println("2. delete address");
             System.out.println("3. select address");
