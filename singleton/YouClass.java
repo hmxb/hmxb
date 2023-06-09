@@ -5,7 +5,7 @@ public class YouClass {
     private String name;
 
     public YouClass(){
-        name = "김현민";
+        name = "김현민!";
 
         SingletonClass sc = SingletonClass.getInstance();
         sc.name = name;
